@@ -1,16 +1,67 @@
-## Hi there 👋
+🇧🇷 Portuguese | 🇺🇸 English
 
-<!--
-**joycekellydev/joycekellydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou a Joyce Kelly!
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Interessada em desenvolvimento de software  
+🚀 Em constante evolução na área de tecnologia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Sobre mim
+- Atualmente estudando Python e lógica de programação  
+- Buscando minha primeira oportunidade de estágio em tecnologia  
+- Interesse em desenvolvimento front-end  
+- Inglês intermediário/avançado  
+- Gosto de aprender e me desafiar com novos projetos  
+
+---
+
+## 🛠️ Tecnologias
+- Python (básico)
+- Lógica de programação
+- Git e GitHub (em aprendizado)
+
+---
+
+## 📂 Projetos
+- 📊 Calculadora de média em Python (v2)
+
+---
+
+## 📫 Contato
+- Email: joycekelly.oliveir@gmail.com
+
+---
+
+# 🇺🇸 About me
+
+🎓 Systems Analysis and Development student  
+💻 Interested in software development  
+🚀 Constantly improving my skills in technology  
+
+---
+
+## 💡 About me
+- Currently learning Python and programming logic  
+- Looking for my first internship opportunity in tech  
+- Interested in front-end development  
+- Upper-Intermediate English  
+- I enjoy learning and challenging myself with new projects  
+
+---
+
+## 🛠️ Technologies
+- Python (basic)
+- Programming logic
+- Git and GitHub (learning)
+
+---
+
+## 📂 Projects
+- 📊 Grade average calculator in Python (v2)
+
+---
+
+## 📫 Contact
+- Email: your@email.com
